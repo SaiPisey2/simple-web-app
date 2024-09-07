@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /home/ec2-user/my-app
+cd /home/ubuntu/my-app
 node app.js > app.log 2>&1 &
